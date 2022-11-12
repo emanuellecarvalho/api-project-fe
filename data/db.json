@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Calça jeans azul clara",
+      "price": 199.9,
+      "id": 1
+    },
+    {
+      "name": "Calça preta",
+      "price": 159.9,
+      "id": 2
+    },
+    {
+      "name": "Camisa azul manga longa",
+      "price": 199.9,
+      "id": 4
+    },
+    {
+      "name": "Tênis branco",
+      "price": 255.9,
+      "id": 6
+    }
+  ]
+}
